@@ -46,5 +46,6 @@
 
 - [九界與上古戰爭](歸檔/原始討論/JIE_NINE_REALMS_ANCIENT_WAR_SOURCE_20260928.md)
 - [核心三人的道](歸檔/原始討論/JIE_THREE_PATHS_SOURCE.md)
+- [大羅界與返本入內](歸檔/原始討論/JIE_DALUO_RETURN_SOURCE_20260928.md)
 
 原始資料中保護舊版 Canon 的註記，保留作為當時的討論紀錄。新版採作者目前「背景整個寫新」的方向，移入舊素材時再決定如何改寫。
