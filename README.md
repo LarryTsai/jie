@@ -47,5 +47,6 @@
 - [九界與上古戰爭](歸檔/原始討論/JIE_NINE_REALMS_ANCIENT_WAR_SOURCE_20260928.md)
 - [核心三人的道](歸檔/原始討論/JIE_THREE_PATHS_SOURCE.md)
 - [大羅界與返本入內](歸檔/原始討論/JIE_DALUO_RETURN_SOURCE_20260928.md)
+- 主角群修仙武學（2026-10-03，討論底稿，整合見[主角群修仙武學整合提案](設定/06_待定與決策紀錄/主角群修仙武學整合提案.md)）：[陸沉](歸檔/原始討論/JIE_LU_CHEN_FINAL_MARTIAL_SYSTEM_TIANQIAN_20261003.md)、[封寒](歸檔/原始討論/JIE_FENG_HAN_XIANXIA_MARTIAL_SYSTEM_SOURCE_20261003.md)、[雲行](歸檔/原始討論/JIE_YUN_XING_XIANXIA_MARTIAL_SYSTEM_SOURCE_20261003.md)、[文奕](歸檔/原始討論/JIE_WEN_YI_XIANXIA_MARTIAL_SYSTEM_SOURCE_20261003.md)
 
 原始資料中保護舊版 Canon 的註記，保留作為當時的討論紀錄。新版採作者目前「背景整個寫新」的方向，移入舊素材時再決定如何改寫。
