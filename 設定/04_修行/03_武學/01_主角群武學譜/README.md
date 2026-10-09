@@ -18,7 +18,7 @@
 >
 > **刻意不寫**：三對朋友之約（**鑑月與雲行、蒼梧與封寒、赤翎與文奕**，依 D072 作者再補記〔二〕）的相識緣由與立約場景；生的雙環第二、第三形態（第三形態是作者底牌）；封寒在太素答案庫那一層讀到什麼；第十雷的名稱與能力。
 >
-> **篇號**一律指[主線路線總稿](../../../../大綱/00_全書骨架/主線路線總稿.md) v3（二十八篇）。**舊版出處**的路徑以 `story/` 指 `D:\Workspace\larry\story\`，`archive/` 指 `D:\Workspace\larry\outside_story_archive\`。
+> **篇號**一律指[主線路線總稿](../../../../大綱/00_全書骨架/03_主線路線總稿/README.md) v3（二十八篇）。**舊版出處**的路徑以 `story/` 指 `D:\Workspace\larry\story\`，`archive/` 指 `D:\Workspace\larry\outside_story_archive\`。
 
 
 ## 節號與子檔
