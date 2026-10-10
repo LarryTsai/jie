@@ -1,0 +1,10 @@
+# Phase2連結核對
+
+| Key | Value |
+|---|---|
+| scope | 本次變更的 Markdown 真實本地連結，排除程式碼與四份既有修改 |
+| checked_links | 1122 |
+
+## missing
+
+(empty)
