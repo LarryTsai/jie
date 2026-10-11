@@ -1,0 +1,26 @@
+[
+  {
+    "path": "待整理/九界互通與劫厄回溯/卷一逐場矩陣.md",
+    "sha256": "8cc7b17697c835ab290eeb13959f3dc3ade8957ec54d7db1e4df06df8fb4b633",
+    "mixed_rows": 76,
+    "depth": "structure/count and candidate-interface reading only; full semantic re-review belongs to Phase3"
+  },
+  {
+    "path": "待整理/九界互通與劫厄回溯/前段逐章矩陣.md",
+    "sha256": "a7f6ad7103e5f734ada5aa304634f4a9d22086f1dc832199a4db860beaea6ecf",
+    "mixed_rows": 519,
+    "depth": "structure/count and candidate-interface reading only; full semantic re-review belongs to Phase3"
+  },
+  {
+    "path": "待整理/九界互通與劫厄回溯/中段逐章矩陣.md",
+    "sha256": "c2efac281f2043c21d19fb6a8a3fb038e7128c57da710d1134bd563b149b9dd0",
+    "mixed_rows": 802,
+    "depth": "structure/count and candidate-interface reading only; full semantic re-review belongs to Phase3"
+  },
+  {
+    "path": "待整理/九界互通與劫厄回溯/後段逐章矩陣.md",
+    "sha256": "e64db6cbcf862ce9cacc201c9d27c16980738eace8d487f43987411af1adb73f",
+    "mixed_rows": 355,
+    "depth": "structure/count and candidate-interface reading only; full semantic re-review belongs to Phase3"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-11",
+  "baseline": "50c884353c815c1c480dec4daf87e272bf676753",
+  "attachment_sha256": "a94ffca6239854ba53f5f29dda7d08c9a46824bddedbf79bc2ca41629e47217c",
+  "attachment_bytes": 13737,
+  "inbox": [
+    {
+      "path": "作者投放區/%E5%8A%AB_AI%E5%9C%98%E9%9A%8A_%E8%81%AF%E5%90%88%E5%AF%A9%E6%9F%A5%E5%BE%8C%E5%AE%8C%E6%95%B4%E4%BF%AE%E6%AD%A3%E6%8C%87%E4%BB%A4.md",
+      "sha256": "01582ffcb1445948c67c32a3fe635b96e25881f921b13321cfa78c304270cba1",
+      "bytes": 13596,
+      "same_as_attachment": false,
+      "same_text_after_line_endings": true
+    }
+  ],
+  "scope": "Phase 0/1; author decision required before dependent later phases; original inbox retained while full task pending"
+}

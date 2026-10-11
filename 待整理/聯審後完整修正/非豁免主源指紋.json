@@ -1,0 +1,74 @@
+[
+  {
+    "path": "待整理/兩訪驤鳴/推薦大綱.md",
+    "sha256": "bb2c3d0f13af9c5cb1e7ee33730f7e198be994e89a9e64f7af1e92684eb10ab9",
+    "bytes": 66632,
+    "role": "candidate"
+  },
+  {
+    "path": "待整理/九界互通與劫厄回溯/推薦世界方案.md",
+    "sha256": "9e7fc41a74d77a0051a95cdc31869a3331385b9f054429932c7ea8f6ab755cc2",
+    "bytes": 30403,
+    "role": "candidate"
+  },
+  {
+    "path": "待整理/九界互通與劫厄回溯/劫厄生命線.md",
+    "sha256": "5600b8e4de108458607ea557c597fefffd27fe6f5373026032146fc67e071ad4",
+    "bytes": 5444,
+    "role": "candidate"
+  },
+  {
+    "path": "設定/04_修行/07_特殊事物/劫厄與旅途同行者.md",
+    "sha256": "357068c4544c0e1059e1a205bcac310e5f3ea33417e790e2073b8a8bc70c8563",
+    "bytes": 40897,
+    "role": "existing formal source; authority differs by section"
+  },
+  {
+    "path": "設定/04_修行/02_雷道/雷種熔煉與雷身修行.md",
+    "sha256": "e343964115cfe98a1329f9af15f8d2c8b5aa641bbb31663cda1b8582d2f56a49",
+    "bytes": 14077,
+    "role": "existing formal source; authority differs by section"
+  },
+  {
+    "path": "設定/01_世界/01_天地結構/九界與陸沉故土.md",
+    "sha256": "b4ecb70fb4326be50d912aa5ef1c528116c9317270a15696c4e0596293003e29",
+    "bytes": 11879,
+    "role": "existing formal source; authority differs by section"
+  },
+  {
+    "path": "設定/01_世界/01_天地結構/機構與跨界交通.md",
+    "sha256": "0cc044439608d28293bad1b6612b0c45976e9797f3119a47c31769dcace8756d",
+    "bytes": 15378,
+    "role": "existing formal source; authority differs by section"
+  },
+  {
+    "path": "大綱/04_成道/03_驤鳴/大綱.md",
+    "sha256": "94208082d734910677e0643bc9b4b3f726e09e76d6ab008c75afdf2e9ce97e47",
+    "bytes": 33545,
+    "role": "existing formal source; authority differs by section"
+  },
+  {
+    "path": "大綱/04_成道/04_碎錦原/大綱.md",
+    "sha256": "0796bbf88ab6f3e001c833d2596362a07b6db4c430dca469410f2def1e98f802",
+    "bytes": 19287,
+    "role": "existing formal source; authority differs by section"
+  },
+  {
+    "path": "決策/01_決策紀錄/D064_雷身可以跨界.md",
+    "sha256": "0f8964f92a11cedb5e3293c8b9b46a59dfbaa9b6a032bc45713ce08dc1cff53b",
+    "bytes": 3389,
+    "role": "existing formal source; authority differs by section"
+  },
+  {
+    "path": "決策/01_決策紀錄/D065_兩界跨界能力與錨印混合案.md",
+    "sha256": "51e26939baa866cc521012329a36ac33adeaec8c0778db80bed12355218e0cf4",
+    "bytes": 15711,
+    "role": "existing formal source; authority differs by section"
+  },
+  {
+    "path": "決策/01_決策紀錄/D154_太玄因果鏈與傷者返宗.md",
+    "sha256": "37cee1bfea18f7be0ebdfb480bc740e1ffd03d5f3a10951d4d11490fc8576649",
+    "bytes": 2979,
+    "role": "existing formal source; authority differs by section"
+  }
+]
