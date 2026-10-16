@@ -11,7 +11,10 @@ for row in d['rounds']:
   seen.add(tuple(sorted((a,b))));score[w]+=1;opp[a].append(b);opp[b].append(a)
 bh={x:sum(score[y] for y in opp[x]) for x in ids}
 assert score==d['scores'] and bh==d['bh'] and len(seen)==48
-assert score['sheng']==4 and score['lu']==3 and d['order'][7]=='lu'
-assert all(bh[x]>bh['lu'] for x in ['qing','chi','feng','mu','qi','ran'])
-assert max(bh[x] for x in ids-{'sheng','lu','qing','chi','feng','mu','qi','ran'} if score[x]==3)<bh['lu']
-print('PASS: 24 candidates, 4 rounds, 48 distinct matches; Lu rank 8, strict qualification boundary.')
+# D157 (2026-10-17): R3 lu beats chi. Lu 4 wins bh6 first, sheng 4 bh5 second, n12 3 bh6 eighth, chi 2 out.
+o=d['order'];assert sorted(o)==sorted(ids)
+assert all((score[o[i]],bh[o[i]])>=(score[o[i+1]],bh[o[i+1]]) for i in range(len(o)-1))
+assert score['lu']==4 and score['sheng']==4 and bh['lu']>bh['sheng'] and o[:2]==['lu','sheng']
+assert o[7]=='n12' and score['chi']==2 and 'chi' not in o[:8]
+assert (score['n12'],bh['n12'])>max((score[x],bh[x]) for x in o[8:])
+print('PASS: 24 candidates, 4 rounds, 48 distinct matches; Lu rank 1, Sheng 2, n12 rank 8, Chi out; strict qualification boundary.')
